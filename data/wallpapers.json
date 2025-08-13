@@ -2,9 +2,9 @@
   {
     "category": "cyberpunk",
     "title": "Neon Grid City",
-    "src": "images/cyberpunk/neon-grid-city.jpg",
-    "file": "neon-grid-city.jpg",
-    "thumb": "images/cyberpunk/neon-grid-city.jpg",
+    "src": "images/w.png",
+    "file": "w.png",
+    "thumb": "images/w.png",
     "resolution": "4K"
   },
   {
@@ -12,27 +12,31 @@
     "title": "Minimal Waves",
     "src": "images/minimal/minimal-waves.png",
     "file": "minimal-waves.png",
-    "thumb": "images/minimal/minimal-waves.png"
+    "thumb": "images/minimal/minimal-waves.png",
+    "resolution": "1440p"
   },
   {
     "category": "gaming",
     "title": "Retro Pixels",
     "src": "images/gaming/retro-pixels.jpg",
     "file": "retro-pixels.jpg",
-    "thumb": "images/gaming/retro-pixels.jpg"
+    "thumb": "images/gaming/retro-pixels.jpg",
+    "resolution": "1080p"
   },
   {
     "category": "cyberpunk",
     "title": "Live USB",
     "src": "images/cyberpunk/live_usb.png",
     "file": "live_usb.png",
-    "thumb": "images/cyberpunk/live_usb.png"
+    "thumb": "images/cyberpunk/live_usb.png",
+    "resolution": "1080p"
   },
   {
     "category": "abstract",
     "title": "Dark Geometry",
     "src": "images/abstract/dark-geometry.jpg",
     "file": "dark-geometry.jpg",
-    "thumb": "images/abstract/dark-geometry.jpg"
+    "thumb": "images/abstract/dark-geometry.jpg",
+    "resolution": "4K"
   }
 ]
