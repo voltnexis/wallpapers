@@ -1,0 +1,30 @@
+[
+  {
+    "category": "cyberpunk",
+    "title": "Neon Grid City",
+    "src": "images/cyberpunk/neon-grid-city.jpg",
+    "file": "neon-grid-city.jpg",
+    "thumb": "images/cyberpunk/neon-grid-city.jpg"
+  },
+  {
+    "category": "minimal",
+    "title": "Minimal Waves",
+    "src": "images/minimal/minimal-waves.png",
+    "file": "minimal-waves.png",
+    "thumb": "images/minimal/minimal-waves.png"
+  },
+  {
+    "category": "gaming",
+    "title": "Retro Pixels",
+    "src": "images/gaming/retro-pixels.jpg",
+    "file": "retro-pixels.jpg",
+    "thumb": "images/gaming/retro-pixels.jpg"
+  },
+  {
+    "category": "abstract",
+    "title": "Dark Geometry",
+    "src": "images/abstract/dark-geometry.jpg",
+    "file": "dark-geometry.jpg",
+    "thumb": "images/abstract/dark-geometry.jpg"
+  }
+]
