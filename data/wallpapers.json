@@ -21,6 +21,13 @@
     "thumb": "images/gaming/retro-pixels.jpg"
   },
   {
+    "category": "cyberpunk",
+    "title": "Live USB",
+    "src": "images/cyberpunk/live_usb.png",
+    "file": "live_usb.png"",
+    "thumb": "images/cyberpunk/live_usb.png""
+  },
+  {
     "category": "abstract",
     "title": "Dark Geometry",
     "src": "images/abstract/dark-geometry.jpg",
