@@ -1,42 +1,226 @@
 [
   {
-    "category": "cyberpunk",
-    "title": "Neon Grid City",
-    "src": "images/w.png",
-    "file": "w.png",
-    "thumb": "images/w.png",
+    "categories": ["cyberpunk", "ai", "hacker", "neon", "futuristic"],
+    "title": "Cipher Phantom",
+    "src": "img/cipher_phantom.webp",
+    "file": "cipher_phantom.png",
+    "thumb": "img/cipher_phantom.webp",
     "resolution": "4K"
   },
   {
-    "category": "minimal",
+    "categories": ["cybersecurity", "digital", "infrastructure", "tech", "security"],
+    "title": "Shieldstream Core",
+    "src": "img/shieldstream_core.webp",
+    "file": "shieldstream_core.png",
+    "thumb": "img/shieldstream_core.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["village", "historical", "fantasy", "scenic", "medieval"],
+    "title": "Sunset Hamlet",
+    "src": "img/sunset_hamlet.webp",
+    "file": "sunset_hamlet.png",
+    "thumb": "img/sunset_hamlet.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["gadgets", "modern", "flatlay", "tech", "workspace"],
+    "title": "Tech Arsenal",
+    "src": "img/tech_arsenal.webp",
+    "file": "tech_arsenal.png",
+    "thumb": "img/tech_arsenal.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["car", "vintage", "urban", "automotive", "classic"],
+    "title": "Mach 1 Mirage",
+    "src": "img/mach1_mirage.webp",
+    "file": "mach1_mirage.png",
+    "thumb": "img/mach1_mirage.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["vintage", "tech", "nostalgia", "retro", "gaming"],
+    "title": "Retro Console Desk",
+    "src": "img/retro_console_desk.webp",
+    "file": "retro_console_desk.png",
+    "thumb": "img/retro_console_desk.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["village", "nature", "twilight", "peaceful", "landscape"],
+    "title": "Golden Brook",
+    "src": "img/golden_brook.webp",
+    "file": "golden_brook.png",
+    "thumb": "img/golden_brook.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["village", "storybook", "european", "charming", "architecture"],
+    "title": "Ivy Lane",
+    "src": "img/ivy_lane.webp",
+    "file": "ivy_lane.png",
+    "thumb": "img/ivy_lane.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["village", "mountains", "serene", "alpine", "peaceful"],
+    "title": "Steeple Hollow",
+    "src": "img/steeple_hollow.webp",
+    "file": "steeple_hollow.png",
+    "thumb": "img/steeple_hollow.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["village", "sunset", "european", "romantic", "waterfront"],
+    "title": "Canal Reverie",
+    "src": "img/canal_reverie.webp",
+    "file": "canal_reverie.png",
+    "thumb": "img/canal_reverie.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["abstract", "minimal", "geometric", "dark", "modern"],
+    "title": "Dark Geometry",
+    "src": "img/abstract/dark-geometry.webp",
+    "file": "dark-geometry.png",
+    "thumb": "img/abstract/dark-geometry.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "tools", "futuristic", "tech", "utility"],
+    "title": "Utility Drive",
+    "src": "img/utility_drive.webp",
+    "file": "utility_drive.png",
+    "thumb": "img/utility_drive.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "os", "dualboot", "tech", "system"],
+    "title": "Boot Nexus",
+    "src": "img/boot_nexus.webp",
+    "file": "boot_nexus.png",
+    "thumb": "img/boot_nexus.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "kali", "cybersecurity", "hacking"],
+    "title": "Kali Usb",
+    "src": "img/kali_usb.webp",
+    "file": "kali_usb.png",
+    "thumb": "img/kali_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "ubuntu", "opensource", "development"],
+    "title": "Ubuntu Usb",
+    "src": "img/ubuntu_usb.webp",
+    "file": "ubuntu_usb.png",
+    "thumb": "img/ubuntu_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "fedora", "redhat", "enterprise"],
+    "title": "Fedora Usb",
+    "src": "img/fedora_usb.webp",
+    "file": "fedora_usb.png",
+    "thumb": "img/fedora_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "manjaro", "arch", "rolling"],
+    "title": "Manjaro Usb",
+    "src": "img/manjaro_usb.webp",
+    "file": "manjaro_usb.png",
+    "thumb": "img/manjaro_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "pop_os", "system76", "gaming"],
+    "title": "Pop!_Usb",
+    "src": "img/pop_usb.webp",
+    "file": "pop_usb.png",
+    "thumb": "img/pop_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "mint", "beginner", "stable"],
+    "title": "Mint Usb",
+    "src": "img/mint_usb.webp",
+    "file": "mint_usb.png",
+    "thumb": "img/mint_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "garuda", "arch", "performance"],
+    "title": "Garuda Usb",
+    "src": "img/garuda_usb.webp",
+    "file": "garuda_usb.png",
+    "thumb": "img/garuda_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "zorin", "windows-like", "transition"],
+    "title": "Zorin Usb",
+    "src": "img/zorin_usb.webp",
+    "file": "zorin_usb.png",
+    "thumb": "img/zorin_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "elementary", "pantheon", "beautiful"],
+    "title": "Elementary Usb",
+    "src": "img/elementary_usb.webp",
+    "file": "elementary_usb.png",
+    "thumb": "img/elementary_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "mx", "debian", "lightweight"],
+    "title": "MX Usb",
+    "src": "img/mx_usb.webp",
+    "file": "mx_usb.png",
+    "thumb": "img/mx_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "linux", "parrot", "cybersecurity", "privacy"],
+    "title": "Parrot Usb",
+    "src": "img/parrot_usb.webp",
+    "file": "parrot_usb.png",
+    "thumb": "img/parrot_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["usb", "windows", "bootable", "microsoft", "system"],
+    "title": "Windows Usb",
+    "src": "img/windows_usb.webp",
+    "file": "windows_usb.png",
+    "thumb": "img/windows_usb.webp",
+    "resolution": "4K"
+  },
+  {
+    "categories": ["minimal", "waves", "clean", "simple", "elegant"],
     "title": "Minimal Waves",
-    "src": "images/minimal/minimal-waves.png",
+    "src": "img/minimal/minimal-waves.webp",
     "file": "minimal-waves.png",
-    "thumb": "images/minimal/minimal-waves.png",
+    "thumb": "img/minimal/minimal-waves.webp",
     "resolution": "1440p"
   },
   {
-    "category": "gaming",
+    "categories": ["gaming", "abstract", "retro", "pixels", "nostalgia"],
     "title": "Retro Pixels",
-    "src": "images/gaming/retro-pixels.jpg",
-    "file": "retro-pixels.jpg",
-    "thumb": "images/gaming/retro-pixels.jpg",
+    "src": "img/gaming/retro-pixels.webp",
+    "file": "retro-pixels.png",
+    "thumb": "img/gaming/retro-pixels.webp",
     "resolution": "1080p"
   },
   {
-    "category": "cyberpunk",
+    "categories": ["cyberpunk", "usb", "live", "portable", "system"],
     "title": "Live USB",
-    "src": "images/cyberpunk/live_usb.png",
+    "src": "img/live_usb.webp",
     "file": "live_usb.png",
-    "thumb": "images/cyberpunk/live_usb.png",
+    "thumb": "img/live_usb.webp",
     "resolution": "1080p"
-  },
-  {
-    "category": "abstract",
-    "title": "Dark Geometry",
-    "src": "images/abstract/dark-geometry.jpg",
-    "file": "dark-geometry.jpg",
-    "thumb": "images/abstract/dark-geometry.jpg",
-    "resolution": "4K"
   }
 ]
