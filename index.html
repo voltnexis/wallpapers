@@ -13,13 +13,13 @@
     <meta property="og:description" content="Download a curated collection of free wallpapers for your desktop. Find stunning tech, cyberpunk, minimal, and gaming backgrounds in multiple resolutions.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://voltnexis.github.io/wallpapers">
-    <meta property="og:image" content="https://voltnexis.github.io/wallpapers/images/wallpapers.webp">
+    <meta property="og:image" content="https://voltnexis.github.io/wallpapers/img/wallpapers.webp">
     <meta property="og:image:alt" content="A collection of VoltNexis tech and gaming wallpapers">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Free Wallpapers from VoltNexis">
     <meta name="twitter:description" content="Explore a stunning collection of tech, gaming, and abstract wallpapers from VoltNexis. Download for free in 4K, 1440p, and 1080p.">
-    <meta name="twitter:image" content="https://voltnexis.github.io/wallpapers/images/wallpapers.webp">
+    <meta name="twitter:image" content="https://voltnexis.github.io/wallpapers/img/wallpapers.webp">
     
     <link rel="canonical" href="https://voltnexis.github.io/wallpapers">
 
@@ -36,16 +36,22 @@
 <body>
     <header class="wrap">
         <h1>VoltNexis Wallpapers</h1>
-        <p class="tag">tech • hacker • minimal • gaming • abstract</p>
+        <p class="tag">All Type of images</p>
     </header>
 
     <nav class="wrap tabs" id="tabs">
         <button data-cat="all" class="active">All</button>
         <button data-cat="cyberpunk">Cyberpunk</button>
-        <button data-cat="minimal">Minimal</button>
         <button data-cat="gaming">Gaming</button>
-        <button data-cat="abstract">Abstract</button>
-        <button data-cat="ai">Ai</button>
+        <button data-cat="ai">AI</button>
+        
+        <div class="category-filter">
+            <button id="categoryBtn" class="filter-btn">Categories ▼</button>
+            <div id="categoryMenu" class="filter-menu">
+                <input type="text" id="categorySearch" placeholder="Search categories..." />
+                <div id="categoryList"></div>
+            </div>
+        </div>
 
         <div class="grow"></div>
 
