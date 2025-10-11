@@ -222,5 +222,77 @@
     "file": "live_usb.png",
     "thumb": "img/live_usb.webp",
     "resolution": "1080p"
+  },
+  {
+    "categories": ["nature", "exploration", "aurora", "survival", "photorealistic"],
+    "title": "Frozen Horizon",
+    "src": "img/nature/frozen-horizon.webp",
+    "file": "frozen-horizon.png",
+    "thumb": "img/nature/frozen-horizon.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["post-apocalyptic", "urban", "nature-reclaiming", "dystopia", "cinematic"],
+    "title": "Urban Rebirth",
+    "src": "img/city/urban-rebirth.webp",
+    "file": "urban-rebirth.png",
+    "thumb": "img/city/urban-rebirth.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["cyberpunk", "futuristic", "technology", "neon", "sci-fi"],
+    "title": "Neon Sentinel",
+    "src": "img/futuristic/neon-sentinel.webp",
+    "file": "neon-sentinel.png",
+    "thumb": "img/futuristic/neon-sentinel.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["apocalypse", "cinematic", "urban", "fire", "symbolic"],
+    "title": "Ashes of Tomorrow",
+    "src": "img/apocalypse/ashes-of-tomorrow.webp",
+    "file": "ashes-of-tomorrow.png",
+    "thumb": "img/apocalypse/ashes-of-tomorrow.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["fantasy", "spiritual", "surreal", "cosmic", "ascension"],
+    "title": "Celestial Rise",
+    "src": "img/fantasy/celestial-rise.webp",
+    "file": "celestial-rise.png",
+    "thumb": "img/fantasy/celestial-rise.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["fantasy", "nature", "costume", "ethereal", "forest"],
+    "title": "Flora Spirit",
+    "src": "img/fantasy/flora-spirit.webp",
+    "file": "flora-spirit.png",
+    "thumb": "img/fantasy/flora-spirit.webp",
+    "resolution": "1080p",
+    "preferredDevice": "mobile"
+  },
+  {
+    "categories": ["sci-fi", "alien", "astronaut", "cartoon", "space"],
+    "title": "Crystal Voyager",
+    "src": "img/sci-fi/crystal-voyager.webp",
+    "file": "crystal-voyager.png",
+    "thumb": "img/sci-fi/crystal-voyager.webp",
+    "resolution": "1080p",
+    "preferredDevice": "mobile"
+  },
+  {
+    "categories": ["music", "surreal", "digital", "immersive", "pop-culture"],
+    "title": "Soundscape Dive",
+    "src": "img/music/soundscape-dive.webp",
+    "file": "soundscape-dive.png",
+    "thumb": "img/music/soundscape-dive.webp",
+    "resolution": "1080p",
+    "preferredDevice": "mobile"
   }
 ]
