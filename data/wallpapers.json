@@ -144,9 +144,9 @@
   {
     "categories": ["sunset", "mountains", "layers", "tranquil", "scenic"],
     "title": "Echoes of Dusk",
-    "src": "img/nature/echoes-of-dusk.webp",
+    "src": "img/echoes-of-dusk.webp",
     "file": "echoes-of-dusk.png",
-    "thumb": "img/nature/echoes-of-dusk.webp",
+    "thumb": "img/echoes-of-dusk.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
@@ -156,15 +156,6 @@
     "src": "img/celestial-spiral.webp",
     "file": "celestial-spiral.png",
     "thumb": "img/celestial-spiral.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["space", "galaxy", "stars", "cosmic", "vivid"],
-    "title": "Galactic Bloom",
-    "src": "img/galactic-bloom.webp",
-    "file": "galactic-bloom.png",
-    "thumb": "img/galactic-bloom.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
@@ -270,9 +261,9 @@
   {
     "categories": ["winter", "frost", "macro", "morning", "crystals"],
     "title": "Frozen Lace",
-    "src": "img/winter/frozen-lace.webp",
+    "src": "img/frozen-lace.webp",
     "file": "frozen-lace.png",
-    "thumb": "img/winter/frozen-lace.webp",
+    "thumb": "img/frozen-lace.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
