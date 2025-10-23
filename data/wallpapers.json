@@ -80,14 +80,6 @@
     "resolution": "4K"
   },
   {
-    "categories": ["abstract", "minimal", "geometric", "dark", "modern"],
-    "title": "Dark Geometry",
-    "src": "img/abstract/dark-geometry.webp",
-    "file": "dark-geometry.png",
-    "thumb": "img/abstract/dark-geometry.webp",
-    "resolution": "4K"
-  },
-  {
     "categories": ["usb", "tools", "futuristic", "tech", "utility"],
     "title": "Utility Drive",
     "src": "img/utility_drive.webp",
@@ -95,6 +87,123 @@
     "thumb": "img/utility_drive.webp",
     "resolution": "4K"
   },
+  {
+    "categories": ["nature", "sunset", "mountain", "serene", "landscape"],
+    "title": "Twilight Peaks",
+    "src": "img/nature/twilight-peaks.webp",
+    "file": "twilight-peaks.png",
+    "thumb": "img/nature/twilight-peaks.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["winter", "cabin", "cozy", "forest", "twilight"],
+    "title": "Hearth in the Pines",
+    "src": "img/winter/hearth-in-the-pines.webp",
+    "file": "hearth-in-the-pines.png",
+    "thumb": "img/winter/hearth-in-the-pines.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["landmark", "sunset", "bridge", "urban", "scenic"],
+    "title": "Golden Horizon",
+    "src": "img/landmark/golden-horizon.webp",
+    "file": "golden-horizon.png",
+    "thumb": "img/landmark/golden-horizon.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["abstract", "geometric", "symmetry", "pattern", "kaleidoscope"],
+    "title": "Fractal Bloom",
+    "src": "img/abstract/fractal-bloom.webp",
+    "file": "fractal-bloom.png",
+    "thumb": "img/abstract/fractal-bloom.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["gradient", "abstract", "colorful", "flow", "motion"],
+    "title": "Chromatic Drift",
+    "src": "img/abstract/chromatic-drift.webp",
+    "file": "chromatic-drift.png",
+    "thumb": "img/abstract/chromatic-drift.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["spring", "nature", "flowers", "serene", "pastel"],
+    "title": "Whispers of Sakura",
+    "src": "img/nature/whispers-of-sakura.webp",
+    "file": "whispers-of-sakura.png",
+    "thumb": "img/nature/whispers-of-sakura.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["sunset", "mountains", "layers", "tranquil", "scenic"],
+    "title": "Echoes of Dusk",
+    "src": "img/nature/echoes-of-dusk.webp",
+    "file": "echoes-of-dusk.png",
+    "thumb": "img/nature/echoes-of-dusk.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["space", "galaxy", "cosmic", "vibrant", "astronomy"],
+    "title": "Celestial Spiral",
+    "src": "img/space/celestial-spiral.webp",
+    "file": "celestial-spiral.png",
+    "thumb": "img/space/celestial-spiral.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["space", "galaxy", "stars", "cosmic", "vivid"],
+    "title": "Galactic Bloom",
+    "src": "img/space/galactic-bloom.webp",
+    "file": "galactic-bloom.png",
+    "thumb": "img/space/galactic-bloom.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["cyberpunk", "futuristic", "urban", "neon", "technology"],
+    "title": "Neon Spires",
+    "src": "img/cyberpunk/neon-spires.webp",
+    "file": "neon-spires.png",
+    "thumb": "img/cyberpunk/neon-spires.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["fantasy", "forest", "moonlight", "magic", "bioluminescent"],
+    "title": "Enchanted Hollow",
+    "src": "img/fantasy/enchanted-hollow.webp",
+    "file": "enchanted-hollow.png",
+    "thumb": "img/fantasy/enchanted-hollow.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["energy", "abstract", "science", "quantum", "dynamic"],
+    "title": "Quantum Pulse",
+    "src": "img/science/quantum-pulse.webp",
+    "file": "quantum-pulse.png",
+    "thumb": "img/science/quantum-pulse.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "waterfall", "sunrise", "mountains", "peaceful"],
+    "title": "Valley of Light",
+    "src": "img/nature/valley-of-light.webp",
+    "file": "valley-of-light.png",
+    "thumb": "img/nature/valley-of-light.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  }
   {
     "categories": ["usb", "os", "dualboot", "tech", "system"],
     "title": "Boot Nexus",
@@ -200,99 +309,11 @@
     "resolution": "4K"
   },
   {
-    "categories": ["minimal", "waves", "clean", "simple", "elegant"],
-    "title": "Minimal Waves",
-    "src": "img/minimal/minimal-waves.webp",
-    "file": "minimal-waves.png",
-    "thumb": "img/minimal/minimal-waves.webp",
-    "resolution": "1440p"
-  },
-  {
-    "categories": ["gaming", "abstract", "retro", "pixels", "nostalgia"],
-    "title": "Retro Pixels",
-    "src": "img/gaming/retro-pixels.webp",
-    "file": "retro-pixels.png",
-    "thumb": "img/gaming/retro-pixels.webp",
-    "resolution": "1080p"
-  },
-  {
     "categories": ["cyberpunk", "usb", "live", "portable", "system"],
     "title": "Live USB",
     "src": "img/live_usb.webp",
     "file": "live_usb.png",
     "thumb": "img/live_usb.webp",
     "resolution": "1080p"
-  },
-  {
-    "categories": ["nature", "exploration", "aurora", "survival", "photorealistic"],
-    "title": "Frozen Horizon",
-    "src": "img/nature/frozen-horizon.webp",
-    "file": "frozen-horizon.png",
-    "thumb": "img/nature/frozen-horizon.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["post-apocalyptic", "urban", "nature-reclaiming", "dystopia", "cinematic"],
-    "title": "Urban Rebirth",
-    "src": "img/city/urban-rebirth.webp",
-    "file": "urban-rebirth.png",
-    "thumb": "img/city/urban-rebirth.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["cyberpunk", "futuristic", "technology", "neon", "sci-fi"],
-    "title": "Neon Sentinel",
-    "src": "img/futuristic/neon-sentinel.webp",
-    "file": "neon-sentinel.png",
-    "thumb": "img/futuristic/neon-sentinel.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["apocalypse", "cinematic", "urban", "fire", "symbolic"],
-    "title": "Ashes of Tomorrow",
-    "src": "img/apocalypse/ashes-of-tomorrow.webp",
-    "file": "ashes-of-tomorrow.png",
-    "thumb": "img/apocalypse/ashes-of-tomorrow.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["fantasy", "spiritual", "surreal", "cosmic", "ascension"],
-    "title": "Celestial Rise",
-    "src": "img/fantasy/celestial-rise.webp",
-    "file": "celestial-rise.png",
-    "thumb": "img/fantasy/celestial-rise.webp",
-    "resolution": "1080p",
-    "preferredDevice": "desktop"
-  },
-  {
-    "categories": ["fantasy", "nature", "costume", "ethereal", "forest"],
-    "title": "Flora Spirit",
-    "src": "img/fantasy/flora-spirit.webp",
-    "file": "flora-spirit.png",
-    "thumb": "img/fantasy/flora-spirit.webp",
-    "resolution": "1080p",
-    "preferredDevice": "mobile"
-  },
-  {
-    "categories": ["sci-fi", "alien", "astronaut", "cartoon", "space"],
-    "title": "Crystal Voyager",
-    "src": "img/sci-fi/crystal-voyager.webp",
-    "file": "crystal-voyager.png",
-    "thumb": "img/sci-fi/crystal-voyager.webp",
-    "resolution": "1080p",
-    "preferredDevice": "mobile"
-  },
-  {
-    "categories": ["music", "surreal", "digital", "immersive", "pop-culture"],
-    "title": "Soundscape Dive",
-    "src": "img/music/soundscape-dive.webp",
-    "file": "soundscape-dive.png",
-    "thumb": "img/music/soundscape-dive.webp",
-    "resolution": "1080p",
-    "preferredDevice": "mobile"
   }
 ]
