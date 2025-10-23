@@ -203,7 +203,133 @@
     "thumb": "img/nature/valley-of-light.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
-  }
+  },
+  {
+    "categories": ["nature", "waterfall", "tropical", "serene", "forest"],
+    "title": "Emerald Falls",
+    "src": "img/nature/emerald-falls.webp",
+    "file": "emerald-falls.png",
+    "thumb": "img/nature/emerald-falls.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["vehicle", "sunset", "freedom", "adventure", "motorcycle"],
+    "title": "Ride Into Dusk",
+    "src": "img/vehicles/ride-into-dusk.webp",
+    "file": "ride-into-dusk.png",
+    "thumb": "img/vehicles/ride-into-dusk.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "sunset", "lavender", "agriculture", "tranquil"],
+    "title": "Fields of Violet",
+    "src": "img/nature/fields-of-violet.webp",
+    "file": "fields-of-violet.png",
+    "thumb": "img/nature/fields-of-violet.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["abstract", "fluid", "colorful", "ink", "motion"],
+    "title": "Liquid Prism",
+    "src": "img/abstract/liquid-prism.webp",
+    "file": "liquid-prism.png",
+    "thumb": "img/abstract/liquid-prism.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "leaves", "macro", "fresh", "serene"],
+    "title": "Dewlight",
+    "src": "img/nature/dewlight.webp",
+    "file": "dewlight.png",
+    "thumb": "img/nature/dewlight.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["vehicle", "sunset", "luxury", "automotive", "performance"],
+    "title": "Electric Horizon",
+    "src": "img/vehicles/electric-horizon.webp",
+    "file": "electric-horizon.png",
+    "thumb": "img/vehicles/electric-horizon.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "mountains", "sunrise", "fog", "majestic"],
+    "title": "Veil of Peaks",
+    "src": "img/nature/veil-of-peaks.webp",
+    "file": "veil-of-peaks.png",
+    "thumb": "img/nature/veil-of-peaks.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["winter", "frost", "macro", "morning", "crystals"],
+    "title": "Frozen Lace",
+    "src": "img/winter/frozen-lace.webp",
+    "file": "frozen-lace.png",
+    "thumb": "img/winter/frozen-lace.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["festival", "balloons", "sunrise", "aerial", "scenic"],
+    "title": "Skybound Serenade",
+    "src": "img/events/skybound-serenade.webp",
+    "file": "skybound-serenade.png",
+    "thumb": "img/events/skybound-serenade.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["fantasy", "dragon", "stained glass", "mythical", "art"],
+    "title": "Crimson Guardian",
+    "src": "img/fantasy/crimson-guardian.webp",
+    "file": "crimson-guardian.png",
+    "thumb": "img/fantasy/crimson-guardian.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "sunset", "mountains", "reflection", "serene"],
+    "title": "Solstice Mirror",
+    "src": "img/nature/solstice-mirror.webp",
+    "file": "solstice-mirror.png",
+    "thumb": "img/nature/solstice-mirror.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["underwater", "coral reef", "marine life", "jellyfish", "vibrant"],
+    "title": "Reeflight",
+    "src": "img/underwater/reeflight.webp",
+    "file": "reeflight.png",
+    "thumb": "img/underwater/reeflight.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["nature", "sunset", "mountains", "dramatic", "landscape"],
+    "title": "Crimson Ridge",
+    "src": "img/nature/crimson-ridge.webp",
+    "file": "crimson-ridge.png",
+    "thumb": "img/nature/crimson-ridge.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
+  {
+    "categories": ["storm", "ocean", "lightning", "dramatic", "nature"],
+    "title": "Tempest Vein",
+    "src": "img/nature/tempest-vein.webp",
+    "file": "tempest-vein.png",
+    "thumb": "img/nature/tempest-vein.webp",
+    "resolution": "1080p",
+    "preferredDevice": "desktop"
+  },
   {
     "categories": ["usb", "os", "dualboot", "tech", "system"],
     "title": "Boot Nexus",
