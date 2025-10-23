@@ -243,27 +243,27 @@
   {
     "categories": ["nature", "leaves", "macro", "fresh", "serene"],
     "title": "Dewlight",
-    "src": "img/nature/dewlight.webp",
+    "src": "img/dewlight.webp",
     "file": "dewlight.png",
-    "thumb": "img/nature/dewlight.webp",
+    "thumb": "img/dewlight.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["vehicle", "sunset", "luxury", "automotive", "performance"],
     "title": "Electric Horizon",
-    "src": "img/vehicles/electric-horizon.webp",
+    "src": "img/electric-horizon.webp",
     "file": "electric-horizon.png",
-    "thumb": "img/vehicles/electric-horizon.webp",
+    "thumb": "img/electric-horizon.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["nature", "mountains", "sunrise", "fog", "majestic"],
     "title": "Veil of Peaks",
-    "src": "img/nature/veil-of-peaks.webp",
+    "src": "img/veil-of-peaks.webp",
     "file": "veil-of-peaks.png",
-    "thumb": "img/nature/veil-of-peaks.webp",
+    "thumb": "img/veil-of-peaks.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
@@ -279,54 +279,54 @@
   {
     "categories": ["festival", "balloons", "sunrise", "aerial", "scenic"],
     "title": "Skybound Serenade",
-    "src": "img/events/skybound-serenade.webp",
+    "src": "img/skybound-serenade.webp",
     "file": "skybound-serenade.png",
-    "thumb": "img/events/skybound-serenade.webp",
+    "thumb": "img/skybound-serenade.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["fantasy", "dragon", "stained glass", "mythical", "art"],
     "title": "Crimson Guardian",
-    "src": "img/fantasy/crimson-guardian.webp",
+    "src": "img/crimson-guardian.webp",
     "file": "crimson-guardian.png",
-    "thumb": "img/fantasy/crimson-guardian.webp",
+    "thumb": "img/crimson-guardian.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["nature", "sunset", "mountains", "reflection", "serene"],
     "title": "Solstice Mirror",
-    "src": "img/nature/solstice-mirror.webp",
+    "src": "img/solstice-mirror.webp",
     "file": "solstice-mirror.png",
-    "thumb": "img/nature/solstice-mirror.webp",
+    "thumb": "img/solstice-mirror.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["underwater", "coral reef", "marine life", "jellyfish", "vibrant"],
     "title": "Reeflight",
-    "src": "img/underwater/reeflight.webp",
+    "src": "img/reeflight.webp",
     "file": "reeflight.png",
-    "thumb": "img/underwater/reeflight.webp",
+    "thumb": "img/reeflight.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["nature", "sunset", "mountains", "dramatic", "landscape"],
     "title": "Crimson Ridge",
-    "src": "img/nature/crimson-ridge.webp",
+    "src": "img/crimson-ridge.webp",
     "file": "crimson-ridge.png",
-    "thumb": "img/nature/crimson-ridge.webp",
+    "thumb": "img/crimson-ridge.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
   {
     "categories": ["storm", "ocean", "lightning", "dramatic", "nature"],
     "title": "Tempest Vein",
-    "src": "img/nature/tempest-vein.webp",
+    "src": "img/tempest-vein.webp",
     "file": "tempest-vein.png",
-    "thumb": "img/nature/tempest-vein.webp",
+    "thumb": "img/tempest-vein.webp",
     "resolution": "1080p",
     "preferredDevice": "desktop"
   },
